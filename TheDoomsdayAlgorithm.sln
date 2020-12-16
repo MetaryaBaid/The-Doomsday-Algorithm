@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TheDoomsdayAlgorithm", "TheDoomsdayAlgorithm.vbproj", "{8DE68E46-77A0-4D30-8F72-023CD2297B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DE68E46-77A0-4D30-8F72-023CD2297B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE68E46-77A0-4D30-8F72-023CD2297B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE68E46-77A0-4D30-8F72-023CD2297B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE68E46-77A0-4D30-8F72-023CD2297B97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51CC06D7-EC79-4676-9F7E-2D4992341329}
+	EndGlobalSection
+EndGlobal
